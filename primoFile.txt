@@ -2,7 +2,8 @@ hello world
 hello world
 riga1
 riga2
-tepozzenaccie
+
+>>>>>>> ab404f146305cf1c316f540b931357762f3c934a
 public class warrior{
 	privata string name;
 }
