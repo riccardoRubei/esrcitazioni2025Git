@@ -3,3 +3,5 @@ hello world
 riga1
 riga2
 riga3
+ciao mondo
+public static void main...
