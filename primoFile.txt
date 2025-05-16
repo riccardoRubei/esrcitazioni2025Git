@@ -2,7 +2,7 @@ hello world
 hello world
 riga1
 riga2
-riga3
+tepozzenaccie
 public class warrior{
 	privata string name;
 }
