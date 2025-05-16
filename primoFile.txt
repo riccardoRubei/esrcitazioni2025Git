@@ -3,3 +3,6 @@ hello world
 riga1
 riga2
 riga3
+public class warrior{
+	privata string name;
+}
